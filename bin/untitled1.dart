@@ -8,3 +8,7 @@ void main(){
 
 
 }
+
+void anotherMethod(int a){
+  print('Hello Method');
+}
