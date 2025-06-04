@@ -12,3 +12,7 @@ void main(){
 void anotherMethod(int a){
   print('Hello Method');
 }
+
+void anotheroneMethod(int b){
+  print('Hello Method');
+}
